@@ -7,4 +7,4 @@ Huete habe ich RoboCode installiert. Zuerst hatte ich einige Probleme mit Java, 
 - [ ] Die Steuerung meines Roboters verbessern, damit er sich in einem Quadrat bewegt.
 - [ ] Den Code vom Borderguard genauer anschauen und herauszufinden, warum er so viele Leben hat.
 - [ ] Roboter von anderen anschauen, um verschiedene Bewegungsalgorithmen kennenzulernen.
-- [ ] Meinen Roboter mit den Ideen vom Borderguard und anderen verbessern
+- [ ] Anschauen wie man Roboter in C# programmiert und einen mit dem vorhin Gelerntem erstellen.
