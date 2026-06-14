@@ -4,7 +4,7 @@ Huete habe ich RoboCode installiert. Zuerst hatte ich einige Probleme mit Java, 
 
 ## 19.06.26
 
-- [ ] Die Steuerung meines Roboters verbessern, damit er nicht einfach geradeaus fährt.
-- [ ] Den Code vom Borderguard genauer anschauen.
-- [ ] Roboter von anderen anschauen
+- [ ] Die Steuerung meines Roboters verbessern, damit er sich in einem Quadrat bewegt.
+- [ ] Den Code vom Borderguard genauer anschauen und herauszufinden, warum er so viele Leben hat.
+- [ ] Roboter von anderen anschauen, um verschiedene Bewegungsalgorithmen kennenzulernen.
 - [ ] Meinen Roboter mit den Ideen vom Borderguard und anderen verbessern
