@@ -1,6 +1,6 @@
 # RoboCode
 
-Huete habe ich RoboCode installiert. Zuerst hatte ich einige Probleme mit Java, da die Installation der neusten Version zuerst nicht funktioniert hat. Dann habe ich einen neuen Roboter erstellt und dort mit der Feuerkraft und geschwindigkeiten herumexperimentiert. Anschliessend habe ich noch alle Roboter gegeneinander kämpfen lassen. Der Borderguard hat immer gewonnen, da er viel mehr Leben als die anderen Bots hatte.
+Huete habe ich RoboCode installiert. Zuerst hatte ich einige Probleme mit Java, da die Installation der neusten Version zuerst nicht funktioniert hat. Dann habe ich einen neuen Roboter erstellt und dort mit der Feuerkraft und Bewegungsrichtungen herumexperimentiert. Anschliessend habe ich noch alle Roboter gegeneinander kämpfen lassen. Der Borderguard hat immer gewonnen, da er viel mehr Leben als die anderen Bots hatte.
 
 ## 19.06.26
 
