@@ -1,0 +1,10 @@
+{
+  "name": "MyFirstBot",
+  "version": "1.0",
+  "authors": "Joshua",
+  "description": "My first bot",
+  "countryCodes": "ch",
+  "gameTypes": "classic",
+  "platform": ".Net 8",
+  "programmingLang": "C# 8"
+}
